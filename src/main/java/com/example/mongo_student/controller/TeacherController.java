@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TeacherController {
     @GetMapping
     public String testUrl(){
-        return "teacher feature works";
+        return "updated info here";
     }
 }
